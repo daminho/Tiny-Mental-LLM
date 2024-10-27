@@ -8,7 +8,7 @@ Run the following code to execute the test
 python3 run_test.py -m MODEL 
 ```
 
-**NOTE: ** MODEL in this case is the model that can execute locally with ```ollama run MODEL```
+**NOTE:**  MODEL in this case is the model that can execute locally with ```ollama run MODEL```
 
 
 ### Argument
